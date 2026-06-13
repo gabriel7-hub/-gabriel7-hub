@@ -20,4 +20,4 @@ sentiment analysis, deployed full-stack.
 JavaScript · Python · React · Node.js · MongoDB · Docker · PyTorch
 
 ## Connect
-[LinkedIn](your-linkedin-url) · calvingabriel16115@gmail.com
+· calvingabriel16115@gmail.com
